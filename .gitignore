@@ -7,3 +7,9 @@ core/release/
 *.exe
 model-files/runtime/config/pskill.exe
 utilities/vta_expresslane_feed_saver/vta_expresslanes_2018*
+misc_scripts/.Rhistory
+misc_scripts/.Rproj.user/*
+.DS_Store
+network-rebuild/src/scripts/.Rproj.user/*
+network-rebuild/src/scripts/.Rhistory
+network-rebuild/data/interim/sf_tomtom.dbf
